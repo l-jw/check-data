@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ljw-world/check-data.git"
+    "url": "git+https://github.com/l-jw/check-data.git"
   },
   "keywords": ["check-data", "check-data-type", "check-type", "data-type", "type"],
   "author": "",
